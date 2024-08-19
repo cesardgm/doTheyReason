@@ -1,0 +1,141 @@
+/* Style the Table */
+.MyTable {
+  width: 100%;
+  margin: 0 auto; /* Center the container horizontally */
+}
+
+table {
+  width: 100%;
+  border-style: double;
+}
+
+caption {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+th, td {
+  padding: 4px;
+  text-align: center;
+  border: none;
+}
+
+thead th {
+  background-color: #f8f8f8; /* Subtle background for headers */
+  border-bottom: 2px solid black; /* Solid bottom border for header separation */
+}
+
+tbody tr {
+  border-bottom: 1px solid #ddd; /* Soft light gray line for separation between rows */
+}
+
+tbody tr:last-child {
+  border-bottom: none; /* Removes the bottom border from the last row */
+}
+
+/* Style the `Do They Reason?` column. Convert "1" to green circles and "0" to red circles */
+.one {
+  width: 15px;
+  height: 15px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.zero {
+  width: 15px;
+  height: 15px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the `arXiv ID` column. Style links to arXiv paper for 'false' papers in red, and 'true' papers in green. */
+
+/* Base style for .green class */
+.green {
+  outline-color: transparent;
+  text-decoration: none;
+}
+
+/* Styles for .green class in different states */
+.green:link {
+  color: #008000; /* Green color for unvisited links */
+}
+
+.green:visited {
+  color: #006400; /* Darker green for visited links */
+}
+
+.green:hover {
+  color: #3CB371; /* Bright green when hovered */
+  background-color: #f0fff0; /* Very light green background on hover */
+}
+
+.green:focus {
+  border-bottom: 2px solid #3CB371; /* Medium sea green, less bright than lime green */
+  background-color: #f0fff0; /* Keeping the background consistent with other hover/focus states */
+}
+
+.green:active {
+  color: #3CB371; /* Forest green when active/clicked */
+  background-color: #CAFF70; /* Light green background on active */
+}
+
+/* Base style for .red class */
+.red {
+  outline-color: transparent;
+  text-decoration: none;
+}
+
+/* Styles for .red class in different states */
+.red:link {
+  color: #FF0000; /* Red color for unvisited links */
+}
+
+.red:visited {
+  color: #8B0000; /* Dark red for visited links */
+}
+
+.red:hover {
+  color: #FF6347; /* Tomato color when hovered */
+  background-color: #fff0f0; /* Very light red background on hover */
+}
+
+.red:focus {
+  border-bottom: 2px solid #FF4500; /* Orange-red bottom border for focus */
+  background-color: #fff0f0;
+}
+
+.red:active {
+  color: #B22222; /* Firebrick red when active/clicked */
+  background-color: #FFA07A; /* Light salmon background on active */
+}
+
+/* Style the `Show All` button */
+.showAll {
+  display: block;    /* Ensures the button is a block element which can have width and margin set */
+  width: 100%;       /* Sets the button's width to match the container, assumed to be the table's width */
+  padding: 10px 0;   /* Provides padding top and bottom but leaves sides at 0 to match the table width exactly */
+  font-size: 1rem;   /* Maintains readable font size */
+  font-weight: bold; /* Bold text to match table headers */
+  text-align: center;
+  color: #fff;       /* White text for contrast */
+  border: 2px solid #333; /* Matches table style */
+  border-radius: 5px; /* Rounded corners for aesthetics */
+  background: #333;  /* Dark background to match table headers */
+  cursor: pointer;   /* Indicates the element is clickable */
+  transition: background-color 0.3s, transform 0.2s; /* Smooth visual feedback on interaction */
+  margin: 20px auto 0; /* Centers the button horizontally and adds space from the table */
+}
+
+.showAll:hover {
+  background-color: #555; /* Lighter grey on hover for user feedback */
+}
+
+.showAll:active {
+  transform: translateY(2px); /* Subtle visual effect to indicate pressing the button */
+}
+

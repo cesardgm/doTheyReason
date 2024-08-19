@@ -1,0 +1,14 @@
+.MiniBlog {
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+.MiniBlog p {
+  margin-top: 10px;
+}
+
+.explainer {
+  border: none;
+  padding: 1.5em;
+  font-size: 15px;
+}

@@ -1,0 +1,506 @@
+[
+    {
+        "Title": "Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought",
+        "Author": "Abulhair Saparov",
+        "Date": "Mon, 3 Oct 2022 21:34:32 UTC",
+        "Headline": "New Dataset Reveals AI's Strengths and Weaknesses in Logical Reasoning!",
+        "Link": "https://arxiv.org/abs/2210.01240",
+        "ID": "2210.0124",
+        "Reason": "0"
+    },
+    {
+        "Title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+        "Author": "Alon Talmor",
+        "Date": "Fri, 2 Nov 2018 15:34:29 UTC",
+        "Headline": "New CommonsenseQA Test Stumps AI, Humans Outperform by 33%!",
+        "Link": "https://arxiv.org/abs/1811.00937",
+        "ID": "1811.00937",
+        "Reason": "0"
+    },
+    {
+        "Title": "Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango",
+        "Author": "Aman Madaan",
+        "Date": "Fri, 16 Sep 2022 02:54:00 UTC",
+        "Headline": "Chain of Thought Prompting: Success Linked to Symbolic Patterns, Not Learning",
+        "Link": "https://arxiv.org/abs/2209.07686",
+        "ID": "2209.07686",
+        "Reason": "0"
+    },
+    {
+        "Title": "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning",
+        "Author": "Antonia Creswell",
+        "Date": "Thu, 19 May 2022 17:25:28 UTC",
+        "Headline": "AI Fails at Complex Logic, New Framework Boosts Performance 100%",
+        "Link": "https://arxiv.org/abs/2205.09712",
+        "ID": "2205.09712",
+        "Reason": "0"
+    },
+    {
+        "Title": "Faithful Reasoning Using Large Language Models",
+        "Author": "Antonia Creswell",
+        "Date": "Tue, 30 Aug 2022 13:44:41 UTC",
+        "Headline": "New AI Method Chains Reasoning Steps, Boosts Answer Accuracy!",
+        "Link": "https://arxiv.org/abs/2208.14271",
+        "ID": "2208.14271",
+        "Reason": "1"
+    },
+    {
+        "Title": "Automatic Chain of Thought Prompting in Large Language Models",
+        "Author": "Aston Zhang",
+        "Date": "Fri, 7 Oct 2022 12:28:21 UTC",
+        "Headline": "Auto-CoT Method Outperforms Manual AI Training in Reasoning Tasks!",
+        "Link": "https://arxiv.org/abs/2210.03493",
+        "ID": "2210.03493",
+        "Reason": "1"
+    },
+    {
+        "Title": "KITAB: Evaluating LLMs on Constraint Satisfaction for Information Retrieval",
+        "Author": "Besmira Nushi",
+        "Date": "Tue, 24 Oct 2023 04:40:38 UTC",
+        "Headline": "LLMs Struggle with Simple Queries, New Study Reveals!",
+        "Link": "https://arxiv.org/abs/2310.15511",
+        "ID": "2310.15511",
+        "Reason": "0"
+    },
+    {
+        "Title": "Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective",
+        "Author": "Bohang Zhang",
+        "Date": "Wed, 24 May 2023 17:59:21 UTC",
+        "Headline": "Chain-of-Thought Unlocks LLMs' Deep Math and Logic Skills!",
+        "Link": "https://arxiv.org/abs/2305.15408",
+        "ID": "2305.15408",
+        "Reason": "1"
+    },
+    {
+        "Title": "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters",
+        "Author": "Boshi Wang",
+        "Date": "Tue, 20 Dec 2022 05:20:54 UTC",
+        "Headline": "Flawed Logic? Invalid Reasoning Still Powers AI's Multi-Step Problem Solving",
+        "Link": "https://arxiv.org/abs/2212.10001",
+        "ID": "2212.10001",
+        "Reason": "0"
+    },
+    {
+        "Title": "Exploring Length Generalization in Large Language Models",
+        "Author": "Cem Anil",
+        "Date": "Mon, 11 Jul 2022 14:24:38 UTC",
+        "Headline": "AI Transforms, Masters Long Problem Solving with New Training Method!",
+        "Link": "https://arxiv.org/abs/2207.04901",
+        "ID": "2207.04901",
+        "Reason": "1"
+    },
+    {
+        "Title": "Impact of Co-occurrence on Factual Knowledge of Large Language Models",
+        "Author": "Cheongwoong Kang",
+        "Date": "Thu, 12 Oct 2023 12:01:32 UTC",
+        "Headline": "LLMs Struggle with Facts, Bias Towards Common Words Exposed",
+        "Link": "https://arxiv.org/abs/2310.08256",
+        "ID": "2310.08256",
+        "Reason": "0"
+    },
+    {
+        "Title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+        "Author": "Denny Zhou",
+        "Date": "Sat, 21 May 2022 15:34:53 UTC",
+        "Headline": "New Prompting Strategy Skyrockets AI's Problem-Solving Across Hard Tasks!",
+        "Link": "https://arxiv.org/abs/2205.10625",
+        "ID": "2205.10625",
+        "Reason": "1"
+    },
+    {
+        "Title": "SELF-[IN]CORRECT: LLMs Struggle with Refining Self-Generated Responses",
+        "Author": "Dongwei Jiang",
+        "Date": "Thu, 4 Apr 2024 20:27:37 UTC",
+        "Headline": "Study Debunks AI's Ability to Self-Improve Through Discrimination!",
+        "Link": "https://arxiv.org/abs/2404.04298",
+        "ID": "2404.04298",
+        "Reason": "0"
+    },
+    {
+        "Title": "Benchmarking GPT-4 on Algorithmic Problems: A Systematic Evaluation of Prompting Strategies",
+        "Author": "Flavio Petruzzellis",
+        "Date": "Tue, 27 Feb 2024 10:44:52 UTC",
+        "Headline": "GPT-4 Exceeds Expectations in Systematic Generalization, Sets New Benchmarks!",
+        "Link": "https://arxiv.org/abs/2402.17396",
+        "ID": "2402.17396",
+        "Reason": "1"
+    },
+    {
+        "Title": "Language Models are Multilingual Chain-of-Thought Reasoners",
+        "Author": "Freda Shi",
+        "Date": "Thu, 6 Oct 2022 17:03:34 UTC",
+        "Headline": "AI Masters Multilingual Math, Shines in Global Reasoning Tests!",
+        "Link": "https://arxiv.org/abs/2210.03057",
+        "ID": "2210.03057",
+        "Reason": "1"
+    },
+    {
+        "Title": "Large Language Models Are Not Strong Abstract Reasoners",
+        "Author": "Ga\u00ebl Gendron",
+        "Date": "Wed, 31 May 2023 04:50:29 UTC",
+        "Headline": "LLMs Fail Abstract Reasoning, Need New Paths for True AI!",
+        "Link": "https://arxiv.org/abs/2305.19555",
+        "ID": "2305.19555",
+        "Reason": "0"
+    },
+    {
+        "Title": "LLMs with Chain-of-Thought Are Non-Causal Reasoners",
+        "Author": "Guangsheng Bao",
+        "Date": "Sun, 25 Feb 2024 10:13:04 UTC",
+        "Headline": "Study Reveals AI's Flawed Logic Despite Correct Answers!",
+        "Link": "https://arxiv.org/abs/2402.16048",
+        "ID": "2402.16048",
+        "Reason": "0"
+    },
+    {
+        "Title": "Teaching Algorithmic Reasoning via In-context Learning",
+        "Author": "Hanie Sedghi",
+        "Date": "Tue, 15 Nov 2022 06:12:28 UTC",
+        "Headline": "LLMs Master Algorithmic Tasks with New Teaching Strategy, Study Finds!",
+        "Link": "https://arxiv.org/abs/2211.09066",
+        "ID": "2211.09066",
+        "Reason": "1"
+    },
+    {
+        "Title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+        "Author": "Jaehoon Lee",
+        "Date": "Thu, 9 Jun 2022 17:05:34 UTC",
+        "Headline": "BIG-bench Pushes AI Limits, Reveals Gaps in Model Capabilities!",
+        "Link": "https://arxiv.org/abs/2206.04615",
+        "ID": "2206.04615",
+        "Reason": "0"
+    },
+    {
+        "Title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+        "Author": "Jaehoon Lee",
+        "Date": "Thu, 9 Jun 2022 17:05:34 UTC",
+        "Headline": "AI Models Face Big Challenges: New Benchmark Reveals Limits and Surprises",
+        "Link": "https://arxiv.org/abs/2206.04615",
+        "ID": "2206.04615",
+        "Reason": "0"
+    },
+    {
+        "Title": "Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations",
+        "Author": "Jaehun Jung",
+        "Date": "Tue, 24 May 2022 06:36:42 UTC",
+        "Headline": "New AI Technique Cracks Complex Logic, Boosts Accuracy by 20%",
+        "Link": "https://arxiv.org/abs/2205.11822",
+        "ID": "2205.11822",
+        "Reason": "1"
+    },
+    {
+        "Title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+        "Author": "Jason Wei",
+        "Date": "Fri, 28 Jan 2022 02:33:07 UTC",
+        "Headline": "Chain of Thought Prompting Skyrockets AI's Complex Reasoning Skills!",
+        "Link": "https://arxiv.org/abs/2201.11903",
+        "ID": "2201.11903",
+        "Reason": "1"
+    },
+    {
+        "Title": "Emergent Abilities of Large Language Models",
+        "Author": "Jason Wei",
+        "Date": "Wed, 15 Jun 2022 17:32:01 UTC",
+        "Headline": "Unexpected Skills Emerge as AI Models Scale Up, Study Finds",
+        "Link": "https://arxiv.org/abs/2206.07682",
+        "ID": "2206.07682",
+        "Reason": "1"
+    },
+    {
+        "Title": "Boosting Language Models Reasoning with Chain-of-Knowledge Prompting",
+        "Author": "Jianing Wang",
+        "Date": "Sat, 10 Jun 2023 12:42:36 UTC",
+        "Headline": "CoK Prompting Unveils AI's Ability to Reason with Knowledge Maps!",
+        "Link": "https://arxiv.org/abs/2306.06427",
+        "ID": "2306.06427",
+        "Reason": "1"
+    },
+    {
+        "Title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "Author": "Jie Huang",
+        "Date": "Tue, 3 Oct 2023 04:56:12 UTC",
+        "Headline": "LLMs Fail to Self-Correct Without Help, Study Shows Limitations!",
+        "Link": "https://arxiv.org/abs/2310.01798",
+        "ID": "2310.01798",
+        "Reason": "0"
+    },
+    {
+        "Title": "Limitations of Language Models in Arithmetic and Symbolic Induction",
+        "Author": "Jing Qian",
+        "Date": "Tue, 9 Aug 2022 21:47:01 UTC",
+        "Headline": "Large Language Models Stumble on Basic Tasks, Tutor Model Excels!",
+        "Link": "https://arxiv.org/abs/2208.05051",
+        "ID": "2208.05051",
+        "Reason": "0"
+    },
+    {
+        "Title": "Training Verifiers to Solve Math Word Problems",
+        "Author": "Karl Cobbe",
+        "Date": "Wed, 27 Oct 2021 04:49:45 UTC",
+        "Headline": "AI's Math Skills Soar with New Verification Method!",
+        "Link": "https://arxiv.org/abs/2110.14168",
+        "ID": "2110.14168",
+        "Reason": "1"
+    },
+    {
+        "Title": "On the Planning Abilities of Large Language Models : A Critical Investigation",
+        "Author": "Karthik Valmeekam",
+        "Date": "Thu, 25 May 2023 06:32:23 UTC",
+        "Headline": "AI Fails Spectacularly in Simple Tasks!",
+        "Link": "https://arxiv.org/abs/2305.15771",
+        "ID": "2305.15771",
+        "Reason": "0"
+    },
+    {
+        "Title": "On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks",
+        "Author": "Kaya Stechly",
+        "Date": "Mon, 12 Feb 2024 23:11:01 UTC",
+        "Headline": "LLMs Fail Self-Critique, Excel with External Verification!",
+        "Link": "https://arxiv.org/abs/2402.08115",
+        "ID": "2402.08115",
+        "Reason": "0"
+    },
+    {
+        "Title": "Chain of Thoughtlessness? An Analysis of CoT in Planning",
+        "Author": "Kaya Stechly",
+        "Date": "Wed, 8 May 2024 02:48:28 UTC",
+        "Headline": "AI Fails Reasoning Tests: Chain of Thought Not a Fix!",
+        "Link": "https://arxiv.org/abs/2405.04776",
+        "ID": "2405.04776",
+        "Reason": "0"
+    },
+    {
+        "Title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+        "Author": "Miles Turpin",
+        "Date": "Sun, 7 May 2023 22:44:25 UTC",
+        "Headline": "Chain-of-Thought in AI Misleads, Fails to Ensure Safety!",
+        "Link": "https://arxiv.org/abs/2305.04388",
+        "ID": "2305.04388",
+        "Reason": "0"
+    },
+    {
+        "Title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+        "Author": "Mirac Suzgun",
+        "Date": "Mon, 17 Oct 2022 17:08:26 UTC",
+        "Headline": "AI Crushes Human Scores on Toughest Tasks with New Strategy!",
+        "Link": "https://arxiv.org/abs/2210.09261",
+        "ID": "2210.09261",
+        "Reason": "1"
+    },
+    {
+        "Title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+        "Author": "Mor Geva",
+        "Date": "Wed, 6 Jan 2021 19:14:23 UTC",
+        "Headline": "StrategyQA Unveils Implicit Reasoning in QA, Stumps Leading AI Models!",
+        "Link": "https://arxiv.org/abs/2101.02235",
+        "ID": "2101.02235",
+        "Reason": "0"
+    },
+    {
+        "Title": "Large Language Models Struggle to Learn Long-Tail Knowledge",
+        "Author": "Nikhil Kandpal",
+        "Date": "Tue, 15 Nov 2022 18:49:27 UTC",
+        "Headline": "LLMs' Knowledge Gaps Linked to Rare Web Data, Scaling Insufficient",
+        "Link": "https://arxiv.org/abs/2211.08411",
+        "ID": "2211.08411",
+        "Reason": "0"
+    },
+    {
+        "Title": "Reasoning with Language Model Prompting: A Survey",
+        "Author": "Ningyu Zhang",
+        "Date": "Mon, 19 Dec 2022 16:32:42 UTC",
+        "Headline": "Breakthroughs in AI Reasoning Promise Revolution in Real-World Applications!",
+        "Link": "https://arxiv.org/abs/2212.09597",
+        "ID": "2212.09597",
+        "Reason": "0"
+    },
+    {
+        "Title": "Faith and Fate: Limits of Transformers on Compositionality",
+        "Author": "Nouha Dziri",
+        "Date": "Mon, 29 May 2023 23:24:14 UTC",
+        "Headline": "Transformers Excel but Fail on Easy Tasks, Study Reveals Limits!",
+        "Link": "https://arxiv.org/abs/2305.18654",
+        "ID": "2305.18654",
+        "Reason": "0"
+    },
+    {
+        "Title": "Faithful Chain-of-Thought Reasoning",
+        "Author": "Qing Lyu",
+        "Date": "Tue, 31 Jan 2023 03:04:26 UTC",
+        "Headline": "Faithful CoT Transforms AI, Shattering Records Across Reasoning Tasks!",
+        "Link": "https://arxiv.org/abs/2301.13379",
+        "ID": "2301.13379",
+        "Reason": "1"
+    },
+    {
+        "Title": "Demystifying Chains, Trees, and Graphs of Thoughts",
+        "Author": "Robert Gerstenberger",
+        "Date": "Thu, 25 Jan 2024 16:34:00 UTC",
+        "Headline": "New Prompting Techniques Skyrocket AI's Problem-Solving Abilities!",
+        "Link": "https://arxiv.org/abs/2401.14295",
+        "ID": "2401.14295",
+        "Reason": "1"
+    },
+    {
+        "Title": "A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning",
+        "Author": "Ruixin Hong",
+        "Date": "Tue, 14 Nov 2023 07:13:10 UTC",
+        "Headline": "AI Struggles to Spot Logical Errors, New Dataset Reveals!",
+        "Link": "https://arxiv.org/abs/2311.07954",
+        "ID": "2311.07954",
+        "Reason": "0"
+    },
+    {
+        "Title": "Are Emergent Abilities of Large Language Models a Mirage?",
+        "Author": "Rylan Schaeffer",
+        "Date": "Fri, 28 Apr 2023 17:52:11 UTC",
+        "Headline": "Emergent AI Abilities? New Study Says It's All in the Metrics",
+        "Link": "https://arxiv.org/abs/2304.15004",
+        "ID": "2304.15004",
+        "Reason": "0"
+    },
+    {
+        "Title": "Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in Language Model Prompting",
+        "Author": "Rylan Schaeffer",
+        "Date": "Thu, 20 Jul 2023 04:28:53 UTC",
+        "Headline": "Illogical AI Prompts Perform as Well as Logical Ones, Study Finds!",
+        "Link": "https://arxiv.org/abs/2307.10573",
+        "ID": "2307.10573",
+        "Reason": "0"
+    },
+    {
+        "Title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+        "Author": "Sebastien Bubeck",
+        "Date": "Wed, 22 Mar 2023 16:51:28 UTC",
+        "Headline": "GPT-4 Nears Human-Level Skills, Could Be Early AGI System!",
+        "Link": "https://arxiv.org/abs/2303.12712",
+        "ID": "2303.12712",
+        "Reason": "1"
+    },
+    {
+        "Title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "Author": "Shunyu Yao",
+        "Date": "Thu, 6 Oct 2022 01:00:32 UTC",
+        "Headline": "ReAct Model Merges Reasoning and Action, Shattering AI Benchmarks!",
+        "Link": "https://arxiv.org/abs/2210.03629",
+        "ID": "2210.03629",
+        "Reason": "1"
+    },
+    {
+        "Title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+        "Author": "Shunyu Yao",
+        "Date": "Wed, 17 May 2023 23:16:17 UTC",
+        "Headline": "Tree of Thoughts: New AI Framework Boosts Problem-Solving by 70%",
+        "Link": "https://arxiv.org/abs/2305.10601",
+        "ID": "2305.10601",
+        "Reason": "1"
+    },
+    {
+        "Title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+        "Author": "Silin Gao",
+        "Date": "Tue, 30 Jan 2024 21:53:30 UTC",
+        "Headline": "New Chain-of-Abstraction Method Boosts AI Reasoning and Speed!",
+        "Link": "https://arxiv.org/abs/2401.17464",
+        "ID": "2401.17464",
+        "Reason": "1"
+    },
+    {
+        "Title": "Large Language Models are Zero-Shot Reasoners",
+        "Author": "Takeshi Kojima",
+        "Date": "Tue, 24 May 2022 09:22:26 UTC",
+        "Headline": "Zero-Shot Learning Unlocks AI\u2019s Hidden Power in Complex Reasoning!",
+        "Link": "https://arxiv.org/abs/2205.11916",
+        "ID": "2205.11916",
+        "Reason": "1"
+    },
+    {
+        "Title": "Understanding Transformers via N-gram Statistics",
+        "Author": "Timothy Nguyen",
+        "Date": "Sun, 30 Jun 2024 22:18:49 UTC",
+        "Headline": "LLMs Master Language, But How They Think Remains a Mystery",
+        "Link": "https://arxiv.org/abs/2407.12034",
+        "ID": "2407.12034",
+        "Reason": "0"
+    },
+    {
+        "Title": "How Interpretable are Reasoning Explanations from Prompting Large Language Models?",
+        "Author": "Wei Jie Yeo",
+        "Date": "Mon, 19 Feb 2024 06:11:28 UTC",
+        "Headline": "New Technique Supercharges AI Interpretability, Achieves 70% Improvement!",
+        "Link": "https://arxiv.org/abs/2402.11863",
+        "ID": "2402.11863",
+        "Reason": "1"
+    },
+    {
+        "Title": "ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting",
+        "Author": "Xiaoxue Cheng",
+        "Date": "Thu, 21 Mar 2024 11:34:26 UTC",
+        "Headline": "CoTGenius Revolutionizes AI's Reasoning, Outperforms Existing Models!",
+        "Link": "https://arxiv.org/abs/2403.14312",
+        "ID": "2403.14312",
+        "Reason": "1"
+    },
+    {
+        "Title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+        "Author": "Xuezhi Wang",
+        "Date": "Mon, 21 Mar 2022 17:48:52 UTC",
+        "Headline": "New AI Decoding Strategy Crushes Reasoning Benchmarks, Revolutionizes Learning!",
+        "Link": "https://arxiv.org/abs/2203.11171",
+        "ID": "2203.11171",
+        "Reason": "1"
+    },
+    {
+        "Title": "Measuring Causal Effects of Data Statistics on Language Model's 'Factual' Predictions",
+        "Author": "Yanai Elazar",
+        "Date": "Thu, 28 Jul 2022 17:36:24 UTC",
+        "Headline": "Unveiling NLP Models: Shallow Heuristics Drive High Performance Predictions",
+        "Link": "https://arxiv.org/abs/2207.14251",
+        "ID": "2207.14251",
+        "Reason": "0"
+    },
+    {
+        "Title": "Impact of Pretraining Term Frequencies on Few-Shot Reasoning",
+        "Author": "Yasaman Razeghi",
+        "Date": "Tue, 15 Feb 2022 05:43:54 UTC",
+        "Headline": "LMs Struggle with Rare Terms, Questioning True Numerical Reasoning Abilities",
+        "Link": "https://arxiv.org/abs/2202.07206",
+        "ID": "2202.07206",
+        "Reason": "0"
+    },
+    {
+        "Title": "Improving Factuality and Reasoning in Language Models through Multiagent Debate",
+        "Author": "Yilun Du",
+        "Date": "Tue, 23 May 2023 17:55:11 UTC",
+        "Headline": "AI 'Society of Minds' Debates, Dramatically Boosts Reasoning Accuracy!",
+        "Link": "https://arxiv.org/abs/2305.14325",
+        "ID": "2305.14325",
+        "Reason": "1"
+    },
+    {
+        "Title": "MathChat: Converse to Tackle Challenging Math Problems with LLM Agents",
+        "Author": "Yiran Wu",
+        "Date": "Fri, 2 Jun 2023 08:02:15 UTC",
+        "Headline": "MathChat: AI Converses to Solve Complex Math, Boosts Performance!",
+        "Link": "https://arxiv.org/abs/2306.01337",
+        "ID": "2306.01337",
+        "Reason": "1"
+    },
+    {
+        "Title": "Deductive Verification of Chain-of-Thought Reasoning",
+        "Author": "Zhan Ling",
+        "Date": "Tue, 6 Jun 2023 17:18:56 UTC",
+        "Headline": "Breakthrough in AI Reasoning Mimics Human Logic, Boosts Accuracy!",
+        "Link": "https://arxiv.org/abs/2306.03872",
+        "ID": "2306.03872",
+        "Reason": "1"
+    },
+    {
+        "Title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+        "Author": "Zhibin Gou",
+        "Date": "Fri, 19 May 2023 15:19:44 UTC",
+        "Headline": "CRITIC Framework Fixes LLM Errors, Mirrors Human Tool Use!",
+        "Link": "https://arxiv.org/abs/2305.11738",
+        "ID": "2305.11738",
+        "Reason": "1"
+    }
+]
